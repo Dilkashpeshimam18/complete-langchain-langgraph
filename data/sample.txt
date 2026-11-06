@@ -1,0 +1,15 @@
+LangChain is a framework for building applications powered by language models.
+
+Large Language Models can understand and generate human language.
+
+Retrieval-Augmented Generation, commonly called RAG, allows an LLM to retrieve relevant information from external documents before generating an answer.
+
+Embeddings convert text into numerical vectors. These vectors can be stored inside a vector database.
+
+A vector database allows us to search for information based on semantic similarity.
+
+The retrieval process finds the most relevant chunks of information for a user's question.
+
+The retrieved information is then provided to the language model as context.
+
+The language model uses this context to generate the final answer.

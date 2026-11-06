@@ -1,0 +1,34 @@
+{
+    "company": {
+        "name": "TechCorp",
+        "industry": "Software",
+        "location": "Mumbai"
+    },
+    "employees": [
+        {
+            "name": "John",
+            "role": "Full Stack Developer",
+            "experience": 3
+        },
+        {
+            "name": "Sarah",
+            "role": "AI Engineer",
+            "experience": 5
+        },
+        {
+            "name": "Mike",
+            "role": "DevOps Engineer",
+            "experience": 4
+        }
+    ],
+    "products": [
+        {
+            "name": "AI Platform",
+            "description": "AI-powered business platform"
+        },
+        {
+            "name": "Analytics Platform",
+            "description": "Business analytics software"
+        }
+    ]
+}
